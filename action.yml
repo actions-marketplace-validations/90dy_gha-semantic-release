@@ -1,4 +1,4 @@
-name: Semantic Release Github Action
+name: Semantic Release Github Action from 90dy
 author: 90dy <90dy@proton.me>
 description: Run semantic-release in github action with same options as cli
 inputs:
