@@ -29,7 +29,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Semantic Release
-        uses: 90dy/gha-semantic-release@main
+        uses: 90dy/gha-semantic-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
